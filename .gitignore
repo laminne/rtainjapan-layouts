@@ -93,3 +93,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+.idea/vcs.xml
+.idea/rtainjapan-layouts.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/discord.xml
+.idea/codeStyles/codeStyleConfig.xml

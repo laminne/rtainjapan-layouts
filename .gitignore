@@ -1,5 +1,5 @@
 /.nodecg
-
+.idea/*
 /dashboard
 /graphics
 /extension

@@ -5,7 +5,7 @@ import styled, {css} from 'styled-components';
 
 import {Tweet} from './lib/tweet';
 
-import blueLogoR from '../images/logo/blue/index.png';
+import blueLogoR from '../images/logo/blue/github_ichiyo.png';
 // import blueLogoTainjapan from '../images/logo/blue/tainjapan.png';
 // import blueLogoAnim0 from '../images/logo/blue/animated-0.gif';
 // import blueLogoAnim1 from '../images/logo/blue/animated-1.gif';
@@ -18,7 +18,7 @@ import blueLogoR from '../images/logo/blue/index.png';
 // import blueLogoAnim8 from '../images/logo/blue/animated-8.gif';
 // import blueLogoAnim9 from '../images/logo/blue/animated-9.gif';
 
-import brownLogoR from '../images/logo/brown/index.png';
+import brownLogoR from '../images/logo/brown/github_ichiyo.png';
 // import brownLogoTainjapan from '../images/logo/brown/tainjapan.png';
 // import brownLogoAnim0 from '../images/logo/brown/animated-0.gif';
 // import brownLogoAnim1 from '../images/logo/brown/animated-1.gif';
